@@ -1,0 +1,23 @@
+{
+  "name": "docugenai",
+  "version": "1.0.0",
+  "description": "Transform your Markdown documentation into beautiful websites with AI",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "documentation",
+    "markdown",
+    "ai",
+    "website-generator",
+    "docs"
+  ],
+  "author": "DocuGenAI Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/docugenai.git"
+  }
+}
